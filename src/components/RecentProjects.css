@@ -1,0 +1,38 @@
+.RecentProjects-main-container{
+    margin: 0;
+    padding: 0;     
+    background-color: #3C2A21;
+    padding-bottom: 10px;
+}
+
+.ReactProjectsContainer{
+    margin:10% 10% 2% 10%;
+    padding-top: 20px;
+}
+
+.card{
+    margin: 20px; 
+    padding-top: 10px;  
+}
+
+.card img{
+    border-radius: 5px;
+    width: 100%;
+}
+
+.recent-projects-row{
+    position: relative;
+    padding-bottom: 50px;
+    margin: 2%;
+}
+
+.View-more-btn{
+    height: 50px;
+    width: 150px;
+    background-color: #ff5361;
+    border-radius: 30px;
+    color: white;
+    position: absolute;
+    right: 10px;
+    bottom: 0;  
+}

@@ -1,0 +1,44 @@
+.about-main-container{
+    color: white;
+    margin: 5%;
+}
+
+.about-main-container h2{
+    margin-bottom: 50px;
+}
+
+
+.about-start{
+    padding: 0 0 7px 0;
+    border-bottom: 4px solid red;
+}
+
+.about-end{
+    padding: 0 0 20px 0;
+    border-bottom: 4px solid red;
+}
+
+.about-me{
+    margin: 0 5%;
+    text-align: center;
+}
+.about-col-2 img{
+    height: 500px;
+    width: 300px; 
+}
+.row-about{
+    margin: 5% 12%;
+}
+
+.about-p-tag{
+   line-height: 4;
+}
+
+.about-col-2{
+    display: flex   ;
+    justify-content: center;
+}
+
+.about-img{
+    width: 300px;
+}

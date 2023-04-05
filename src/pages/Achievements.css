@@ -1,0 +1,15 @@
+.achievements-main-container{
+    margin: 3% 12%;
+    color: aliceblue;
+}
+
+
+
+#carouselExampleInterval img{
+    height: 18rem;
+    border: 5px solid #FFB100;
+}
+
+.acievement-container-col{
+    margin-bottom: 100px;
+}

@@ -1,0 +1,29 @@
+.profile-main-container{
+    margin: 2% 15%;
+    color: white;
+    justify-content: center;
+}
+
+.card {
+    padding: 0;
+    color: black;
+}
+
+.profile-img{
+    height: 100px;
+}
+
+.profile-card-body{
+    text-align: center;
+}
+
+.profile-icons i{
+    color: white;
+    margin: 0 20px 10px 0 ;
+}
+
+.col-contact-profile{
+    margin: 20px 15px;
+    
+    
+}
